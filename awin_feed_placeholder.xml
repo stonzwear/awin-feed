@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product>
+    <product_id>000001</product_id>
+    <product_name>Placeholder Product</product_name>
+    <deep_link>https://yourstore.com/products/placeholder?awinaffid=40718</deep_link>
+    <image_url>https://via.placeholder.com/600x600.png?text=Image</image_url>
+    <price>0.00</price>
+    <currency>CAD</currency>
+    <category>Example</category>
+    <description>This is a placeholder product used for testing the Awin feed setup.</description>
+    <availability>in stock</availability>
+  </product>
+</products>
